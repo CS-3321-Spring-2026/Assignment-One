@@ -1,7 +1,11 @@
 # GitHub Introduction Assignment 
 
-## Overreview
+## Overview
 This repo is for Assignment One, the base script was provided by the Professor
 
 ## How to run
-Upon running the script in a CLI, it will print "Hello World!" in the console.
+Upon using the following command in a CLI 
+~~~bash 
+bash repo_script-1.sh
+~~~
+it will print "Hello World" in the console.
